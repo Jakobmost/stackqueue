@@ -1,0 +1,7 @@
+C:\Users\jakob\OneDrive\Skrivebord\GitHub\tree\tree\bin\Debug\tree.exe.config
+C:\Users\jakob\OneDrive\Skrivebord\GitHub\tree\tree\bin\Debug\tree.exe
+C:\Users\jakob\OneDrive\Skrivebord\GitHub\tree\tree\bin\Debug\tree.pdb
+C:\Users\jakob\OneDrive\Skrivebord\GitHub\tree\tree\obj\Debug\tree.csprojResolveAssemblyReference.cache
+C:\Users\jakob\OneDrive\Skrivebord\GitHub\tree\tree\obj\Debug\tree.csproj.CoreCompileInputs.cache
+C:\Users\jakob\OneDrive\Skrivebord\GitHub\tree\tree\obj\Debug\tree.exe
+C:\Users\jakob\OneDrive\Skrivebord\GitHub\tree\tree\obj\Debug\tree.pdb
